@@ -6,3 +6,5 @@ Documento de especificaciones en word con la resolucion de la prueba
 
 
 carpeta con el proyecto con el desarrollo de la aplicacion
+
+realizado en servidor local con XAMPP- BD: MYSQL
